@@ -1,3 +1,6 @@
+[submodule "inexor/platform"]
+	path = inexor/platform
+	url = https://github.com/PowerKiller/zealous-octo-funicular.git
 [submodule "inexor/libraries/googletest"]
 	path = inexor/libraries/googletest
 	url = https://github.com/inexor-game/googletest.git
